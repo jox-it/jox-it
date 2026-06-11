@@ -2,10 +2,12 @@
 
 **Process automation for complex IT environments.**
 
-JOX is a Java-based job scheduler and workflow engine, in productive use
-since 2001 — originally built for billing automation at Talkline GmbH,
-today running at [freenet DLS GmbH](https://www.freenet.ag/) and
-in further projects across industries.
+JOX is a Java-based job scheduler and workflow engine. It runs
+processes unchanged across DEV, UAT and production, coordinates
+distributed execution through the database, and keeps every run
+fully traceable.
+
+In productive use since 2001.
 
 ---
 
@@ -33,10 +35,12 @@ flow transactionally through the repository. One source of truth,
 many autonomous execution nodes. No message broker, no cluster
 manager, no service mesh.
 
-## In production at
+## Productive use
 
-- **freenet DLS GmbH** — since 2001, originally Talkline GmbH
-- Read the [customer story](https://jox-it.de/en/customer-story)
+JOX runs in productive environments since 2001, today at
+freenet DLS GmbH and in further projects across industries.
+For the full 20-year story, see the
+[customer story](https://jox-it.de/en/customer-story).
 
 ## Learn more
 
